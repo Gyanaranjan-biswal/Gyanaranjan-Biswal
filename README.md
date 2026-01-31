@@ -96,7 +96,7 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/gyanaranjan-biswal" target="blank">
+  <a href="www.linkedin.com/in/gyanaranjan-biswal-04388a310" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gyanaranjan-biswal" height="30" width="40" />
   </a>
   <a href="mailto:biswalgyanaranjan2005@gmail.com">
